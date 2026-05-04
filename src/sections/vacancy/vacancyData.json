@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "vacancy_title_en": "Pharmacist- Technologist",
+      "vacancy_title_ru": " Фармацевт-технолог",
+      "vacancy_title_uz": "Farmatsevt-Texnolog"
+    },
+    "description": {
+      "vacancy_desc_en": "Join our team as a Pharmacy Technologist and play a vital role in supporting the efficient operation of our pharmacy. As a Pharmacy Technologist, you will assist pharmacists in dispensing medications, maintaining inventory, and providing exceptional customer service. Your responsibilities will include preparing prescriptions accurately, managing medication orders, and ensuring compliance with regulatory standards. Strong attention to detail, excellent communication skills, and a commitment to patient care are essential for success in this role. If you're looking for a rewarding career in healthcare where you can make a difference, apply now to become part of our dynamic pharmacy team.",
+      "vacancy_desc_ru": "Присоединяйтесь к нашей команде в качестве фармацевта-технолога и играйте важную роль в поддержке эффективной работы нашей аптеки. Ваша задача - помогать фармацевтам в выдаче медикаментов, ведении учета инвентаря и обеспечении высокого уровня обслуживания клиентов. Ваши обязанности будут включать подготовку рецептов с высокой точностью, управление заказами на медикаменты и обеспечение соблюдения нормативных стандартов. Высокая внимательность к деталям, отличные коммуникативные навыки и стремление к уходу за пациентами необходимы для успешной работы в этой сфере. Если вы ищете насыщенную и значимую карьеру в здравоохранении, где сможете внести свой вклад, подавайте заявку сейчас, чтобы стать частью нашей динамичной аптечной команды.",
+      "vacancy_desc_uz": "Bizning jamoamizga farmatsevt-texnolog sifatida qo'shiling va bizning aptekamizning samarador ishlashini qo'llab-quvvatlashda muhim rol o'ynang. Farmatsevt-texnolog sifatida, siz dori vositalarini taqdim etishda, inventarizatsiyani boshqarishda va mijozlarga xizmat ko'rsatishda yordam bermoqdasiz. Sizning vazifalaringizni qisqartirishni, buyurtmalarini boshqarishni va nazorat standartlariga rioya qilishni o'z ichiga oladi. To'g'ri ishonchli vaqtlarning e'tibori, ajoyib kommunikatsiya ko'nikmalari va kasallarni qo'liga olishga qaratilgan imkoniyatlarning jamg'armasi uchun muhimdir. Agar siz sog'likda ahamiyatli karyera izlashda bo'lsangiz, hamda siz o'z hissangizni qo'shishingiz mumkin bo'lgan sog'lik himoyasi sohasida kuchli va oqibatli faoliyat izlashda, endi ariza berib ko'ring, bizning dinamik apteka jamoamizning qismi bo'lish uchun murojaat qiling."
+    },
+    "requirements": [
+      {
+        "vacancy_requir_en": "Higher education.",
+        "vacancy_requir_ru": "Высшее образование.",
+        "vacancy_requir_uz": "Oliy ma'lumot."
+      },
+      {
+        "vacancy_requir_en": "Work experience of at least 2 years.",
+        "vacancy_requir_ru": "Опыт работы не менее 2 лет.",
+        "vacancy_requir_uz": "Ish tajribasi kamida 2 yil."
+      },
+      {
+        "vacancy_requir_en": "Age from 21 to 40.",
+        "vacancy_requir_ru": "Возраст от 21 до 40 лет.",
+        "vacancy_requir_uz": "21 dan 40 yoshgacha"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": {
+      "vacancy_title_en": " Graphic Designer",
+      "vacancy_title_ru": " Графический дизайнер",
+      "vacancy_title_uz": "Grafik Dizayner"
+    },
+    "description": {
+      "vacancy_desc_en": "We're seeking a creative Graphic Designer to join our team and contribute to the visual identity of our brand. In this role, you'll be responsible for creating engaging and innovative designs for various digital and print materials, including advertisements, brochures, and social media content. The ideal candidate will have a strong portfolio showcasing their design skills, proficiency in graphic design software, and a keen eye for detail. If you're passionate about transforming ideas into compelling visual experiences and want to be part of a dynamic team, we'd love to hear from you.",
+      "vacancy_desc_uz": "Bizning jamoamizga qiziq dizayner grafikni qo'shishni va bizning brendimizning visual identitetiga xizmat qilishni talab qilamiz. Bu vazifada, siz reklama, broshyuralar va ijtimoiy tarmoq kontentlari kabi turli raqamli va chop etilgan materiallar uchun qiziqtiruvchi va innovatsion dizaynlarni yaratishdan mas'ul bo'lasiz. Ideal kandidat dizayn ko'nikmalarini namoyish etuvchi kuchli portfelni, grafik dizayn dasturlarida malakani va tafsilotlarga diqqat qaratishni ega bo'lishi kerak. Agar siz ideyalarni ta'sirli vizual tajribalarga aylantirishga qiziqsangiz va dynamik jamoaning qismi bo'lishni istasangiz, biz sizni eshitishdan mamnun bo'lardik.",
+      "vacancy_desc_ru": "Мы ищем творческого графического дизайнера для присоединения к нашей команде и вклада в визуальную идентичность нашего бренда. В этой роли вы будете ответственны за создание привлекательных и инновационных дизайнов для различных цифровых и печатных материалов, включая рекламу, брошюры и контент в социальных сетях. Идеальный кандидат будет иметь сильное портфолио, демонстрирующее его навыки дизайна, владение графическим программным обеспечением и тонкое внимание к деталям. Если вы увлечены преобразованием идей в убедительные визуальные впечатления и хотите стать частью динамичной команды, мы будем рады услышать от вас."
+    },
+    "requirements": [
+      {
+        "vacancy_requir_en": "Higher education.",
+        "vacancy_requir_ru": "Высшее образование.",
+        "vacancy_requir_uz": "Oliy ma'lumot."
+      },
+      {
+        "vacancy_requir_en": "Work experience of at least 2 years.",
+        "vacancy_requir_ru": "Опыт работы не менее 2 лет.",
+        "vacancy_requir_uz": "Ish tajribasi kamida 2 yil."
+      },
+      {
+        "vacancy_requir_en": " Age from 20 to 35.",
+        "vacancy_requir_ru": "Возраст от 20 до 35.",
+        "vacancy_requir_uz": "20 dan 35 yoshgacha"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": {
+      "vacancy_title_en": "Microbiologist",
+      "vacancy_title_ru": "Микробиолог",
+      "vacancy_title_uz": "Mikrobiolog"
+    },
+    "description": {
+      "vacancy_desc_en": "We are seeking a skilled Microbiologist to join our team and contribute to our research efforts in understanding microorganisms' roles in various environments. As a Microbiologist, you will conduct experiments, analyze data, and interpret results to advance our understanding of microbiological processes. Responsibilities include sample collection, culture preparation, and molecular analysis techniques. The ideal candidate will have a strong background in microbiology, proficiency in laboratory techniques, and a passion for scientific inquiry. If you're excited about exploring the fascinating world of microorganisms and making meaningful contributions to scientific knowledge, we encourage you to apply.",
+      "vacancy_desc_ru": "Мы ищем опытного микробиолога, который присоединится к нашей команде и внесет свой вклад в наши исследовательские усилия по пониманию роли микроорганизмов в различных средах. Как микробиолог, вы будете проводить эксперименты, анализировать данные и интерпретировать результаты, чтобы продвигать наше понимание микробиологических процессов. Обязанности включают сбор образцов, подготовку культур и молекулярные аналитические техники. Идеальный кандидат будет иметь solide знание в области микробиологии, владение лабораторными техниками и страсть к научному поиску. Если вас вдохновляет исследование удивительного мира микроорганизмов и вы хотите внести смысловой вклад в научные знания, мы приглашаем вас подать заявку.",
+      "vacancy_desc_uz": "Bizning jamoamizga mahoratli mikrobiologni qo'shishimizni va turli muhitlarda mikroorganizmlarning o'rinlarini tushunishga qaratilgan tadqiqotlarimizga hissas qo'shilishiga yordam berishimizni kutamiz. Mikrobiolog sifatida, siz eksperimentlarni o'tkazib, ma'lumotlarni tahlil qilish va natijalarni tushuntirib, mikrobiologik jarayonlarning bizning tushunishimizni yanada ilg'orlashtirish uchun ishlayapsiz. Vazifalar orasida namunalar to'plami, kultur tayyorlash va molekulyar tahlil texnikalari bulunadi. Ideal nomzod mikrobiologiya sohasida kuchli bilimga, laboratoriya texnikalari malakasiga va ilmiy so'rovchilikka qiziqishiga ega bo'lishi kerak. Agar siz mikroorganizmlarning hayratli dunyasini o'rganishga hamma ishtiyoq qilsangiz va ilmiy bilimga ma'nolikli hissalar qo'shishni istasangiz, bizning arizamizni topshirishimizni tavsiya qilamiz."
+    },
+    "requirements": [
+      {
+        "vacancy_requir_en": "Higher education.",
+        "vacancy_requir_ru": "Высшее образование.",
+        "vacancy_requir_uz": "Oliy ma'lumot."
+      },
+      {
+        "vacancy_requir_en": "Work experience of at least 2 years.",
+        "vacancy_requir_ru": "Опыт работы не менее 2 лет.",
+        "vacancy_requir_uz": "Ish tajribasi kamida 2 yil."
+      },
+      {
+        "vacancy_requir_en": "Age and gender do not matter",
+        "vacancy_requir_ru": "Возраст и пол не имеют значения",
+        "vacancy_requir_uz": "Yosh va jins muhim emas"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": {
+      "vacancy_title_en": "Packager",
+      "vacancy_title_ru": "Упаковщик",
+      "vacancy_title_uz": "Qadoqlovchi "
+    },
+    "description": {
+      "vacancy_desc_en": "We are seeking experienced Packagers to join our team. As a Packager, you will be responsible for preparing and packaging products for shipment according to specifications. Duties may include inspecting items, assembling boxes, labeling packages, and ensuring accurate documentation. The ideal candidate will have prior experience in packaging, attention to detail, and the ability to work efficiently in a fast-paced environment. If you have the necessary experience and are looking for an opportunity to contribute to our team, we encourage you to apply.",
+      "vacancy_desc_ru": "Мы ищем опытных упаковщиков для присоединения к нашей команде. Ваша основная задача как упаковщика будет включать подготовку и упаковку продукции для отправки в соответствии с требованиями. Обязанности могут включать проверку товаров, сборку коробок, нанесение маркировки на упаковки и обеспечение точной документации. Идеальный кандидат имеет опыт работы в упаковке, внимание к деталям и способность эффективно работать в быстром темпе. Если у вас есть необходимый опыт и вы ищете возможность внести свой вклад в нашу команду, мы приглашаем вас подать заявку.",
+      "vacancy_desc_uz": "Biz jamoamizga tajribalangan upakovchilar qidirmoqdamiz. Sizning asosiy vazifangiz bo'lib, ma'lumotlarga muvofiq mahsulotlarni tayyorlash va upakavka qilish. Vazifalar to'g'risida harajatlarni tekshirish, qutilarni yig'ish, paketlarga belgilarni qo'yish va to'g'ri hujjatlarni ta'minlash kiritilishi mumkin. Ideal nomzod upakovka sohasida tajribaga, tafsilotlarga ega bo'lish va tez tempda samarali ishlashga qodir bo'lishi kerak. Agar sizda kerakli tajriba mavjud bo'lsa va jamoamizga hissangizni qo'shish uchun imkoniyat qidirayotgan bo'lsangiz, biz sizni arizaga surishni tavsiya qilamiz."
+    },
+    "requirements": [
+      {
+        "vacancy_requir_en": "Secondary education .",
+        "vacancy_requir_ru": "Средняя образования",
+        "vacancy_requir_uz": "O'rta ma'lumot."
+      },
+      {
+        "vacancy_requir_en": "Experience: Not required.",
+        "vacancy_requir_ru": "Опыт работы не требуется",
+        "vacancy_requir_uz": "Ish tajriba talab etilmaydi."
+      },
+      {
+        "vacancy_requir_en": "Age from 18 to 35 years.",
+        "vacancy_requir_ru": "пол не имеют значения",
+        "vacancy_requir_uz": "Yosh 18 dan 35 gacha"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": {
+      "vacancy_title_en": "Loader",
+      "vacancy_title_ru": "Грузчик ",
+      "vacancy_title_uz": "Yuk tashuvchi "
+    },
+    "description": {
+      "vacancy_desc_en": "We seeking young Loader who will be responsible to take part of our loading team, the person is who are able to lift heavy stuff and able to operate thoughout the day, must be physically fit and do not afraid to work under hight presssure",
+      "vacancy_desc_ru": "Мы ищем энергичных и мотивированных людей для работы в качестве грузчика без опыта. Ваша главная задача будет включать в себя погрузку и разгрузку товаров, контроль качества упаковки и обеспечение безопасности грузов. Мы предлагаем обучение на месте работы и возможность быстрого развития в этой сфере. Главные требования - физическая выносливость, готовность к тяжелой работе и желание учиться. Если вы ищете возможность начать свою карьеру в логистике и готовы к новым вызовам, присоединяйтесь к нашей команде прямо сейчас. ",
+      "vacancy_desc_uz": "Biz yuklab o'chiruvchilar bilan ishlash uchun tajriba talab qilinmaydigan jovidan va motivatsiyalangan odamlarni qidirmoqdamiz. Sizning asosiy vazifangiz mahsulotlarni yuklash va bo'shatish, qadoqlashning sifatini nazorat qilish va yuklarni xavfsizlikka ta'minlash bo'ladi. Biz ish joyida o'rganish va bu sohada tez rivojlanish imkoniyatini taklif qilamiz. Asosiy talablar - fizikaviy kuchga ega bo'lish, og'ir ishlarni bajarishga tayyorlik va o'rganishga qiziqish. Agar siz logistikada karyeraga boshlash imkoniyatini qidirayotgan bo'lsangiz va yangi qiyinchiliklarga tayyor bo'lsangiz, bizning jamoamizga hozir qo'shiling."
+    },
+    "requirements": [
+      {
+        "vacancy_requir_en": "Secondary education .",
+        "vacancy_requir_ru": "Средняя образования",
+        "vacancy_requir_uz": "O'rta ma'lumot."
+      },
+      {
+        "vacancy_requir_en": "Experience: Not required.",
+        "vacancy_requir_ru": "Опыт работы не требуется",
+        "vacancy_requir_uz": "Ish tajriba talab etilmaydi."
+      },
+      {
+        "vacancy_requir_en": "Age from 18 to 35 years. Male",
+        "vacancy_requir_ru": "Возраст от 18 до 35 лет. Пол: мужчина",
+        "vacancy_requir_uz": "Yosh 18 dan 35 gacha, Jinsi:Erkak"
+      }
+    ]
+  }
+]

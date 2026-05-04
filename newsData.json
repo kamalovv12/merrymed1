@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Opening of a workshop for the production of finished plastic ampoules",
+    "description": "In July 2019, a workshop was opened for the production of finished plastic ampoules, eye drops in plastic vials and infusions solutions. The advanced European equipment of the «Rommelag AG» company allows to make “blow-fill-seal” process on one technological line that promotes improvement of the quality of products and decrease of the environment pollution ",
+    "date": "31.01.2020",
+    "images": [
+      { "url": "/images/news/1.jpg" },
+      {
+        "url": "/images/news/2.jpg"
+      },
+      {
+        "url": "/images/news/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Opening of a workshop for the production of glass ampoules",
+    "description": "In January 2018, our company held the opening ceremony of a new workshop for the production of glass ampoules. The equipment of the European company “KYP Accessories”is installed in the workshop. The capacity of this equipment will easily provide, in full, the needs of our plant and other pharmaceutical companies in the country. The opening of such a workshop will significantly reduce the share of imported raw materials, and increase the number of working places",
+    "date": "31.01.2020",
+    "images": [
+      {
+        "url": "/images/news/5.jpg"
+      },
+      {
+        "url": "/images/news/4.jpg"
+      },
+
+      {
+        "url": "/images/news/6.jpg"
+      }
+    ]
+  }
+]
